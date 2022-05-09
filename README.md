@@ -1,5 +1,5 @@
 - 👋 Hi, I’m amin
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning front-end in cs-internship
 - 📫 send message to me in telegram: @aminpgh
 
 <!---
